@@ -1,0 +1,1 @@
+var json_mfreodeCauquereaumont_3 = {"type":"FeatureCollection","name":"mfreodeCauquereaumont_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"MFREO de Coqueréaumont"},"geometry":{"type":"Point","coordinates":[1.175082425155309,49.546901732342029]}}]}

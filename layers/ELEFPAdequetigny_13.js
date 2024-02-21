@@ -1,0 +1,1 @@
+var json_ELEFPAdequetigny_13 = {"type":"FeatureCollection","name":"ELEFPAdequetigny_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"EPLEFPA de Quétigny Plombières Les Dijon"},"geometry":{"type":"Point","coordinates":[5.11389,47.3088]}}]}

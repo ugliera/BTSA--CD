@@ -1,0 +1,1 @@
+var json_legtayvetot_12 = {"type":"FeatureCollection","name":"legtayvetot_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"LEGTA Yvetot"},"geometry":{"type":"Point","coordinates":[0.661913284487079,49.506589701253155]}}]}

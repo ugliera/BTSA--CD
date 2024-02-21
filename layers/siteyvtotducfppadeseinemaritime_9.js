@@ -1,0 +1,1 @@
+var json_siteyvtotducfppadeseinemaritime_9 = {"type":"FeatureCollection","name":"siteyvtotducfppadeseinemaritime_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"Site Yvetot du CFPPA de Seine Maritime agricole"},"geometry":{"type":"Point","coordinates":[0.400591456845537,49.596812369977187]}}]}

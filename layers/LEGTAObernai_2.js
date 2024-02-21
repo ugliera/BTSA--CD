@@ -1,0 +1,1 @@
+var json_LEGTAObernai_2 = {"type":"FeatureCollection","name":"LEGTAObernai_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"LEGTA Obernai"},"geometry":{"type":"Point","coordinates":[7.4969,48.467099999985429]}}]}

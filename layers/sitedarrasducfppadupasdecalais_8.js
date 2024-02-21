@@ -1,0 +1,1 @@
+var json_sitedarrasducfppadupasdecalais_8 = {"type":"FeatureCollection","name":"sitedarrasducfppadupasdecalais_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom":"Site d'Arras du CFPPA du Pas de Calais"},"geometry":{"type":"Point","coordinates":[2.857212929896402,50.357733094167735]}}]}
